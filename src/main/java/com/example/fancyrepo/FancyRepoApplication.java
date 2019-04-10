@@ -12,6 +12,8 @@ public class FancyRepoApplication {
 		//some logic
 
 		//some more logic (feature 2)
+
+		// feature 3
 	}
 
 }
