@@ -8,6 +8,8 @@ public class FancyRepoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FancyRepoApplication.class, args);
+
+		//some logic
 	}
 
 }
