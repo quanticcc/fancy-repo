@@ -10,6 +10,8 @@ public class FancyRepoApplication {
 		SpringApplication.run(FancyRepoApplication.class, args);
 
 		//some logic
+
+		//some more logic (feature 2)
 	}
 
 }
